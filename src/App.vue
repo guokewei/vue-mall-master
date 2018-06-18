@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-  <button>abcdedffhdi</button>
+  <button>abcdedffhd范德萨范德萨i</button>
     <router-view class="main"></router-view>
   </div>
 </template>
